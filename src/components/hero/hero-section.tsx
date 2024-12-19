@@ -9,7 +9,7 @@ const HeroSection = () => {
     >
       <div className="bg-gradient-to-r from-[#1931e6] to-[#ffff]">
         <div className="flex  items-center justify-between">
-          <div className="ps-16">
+          <div className="ps-10 lg:ps-20 text-white">
             <p>Scale for Buisness</p>
             <h1 className="text-2xl lg:text-6xl font-bold  w-12">
               Learning Training Prediction
